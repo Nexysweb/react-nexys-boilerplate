@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "2223af2a4421923678056dd292fb0d78",
+    "revision": "2f80e6f8d483c78f688b92475787bc24",
     "url": "/react-nexys-boilerplate/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/react-nexys-boilerplate/static/js/2.2ea84aa1.chunk.js"
   },
   {
-    "revision": "6c753f19d0e2fc186427",
-    "url": "/react-nexys-boilerplate/static/js/main.28ad5e33.chunk.js"
+    "revision": "f4f09379f68de5b629a0",
+    "url": "/react-nexys-boilerplate/static/js/main.a9b6922a.chunk.js"
   },
   {
     "revision": "d0be0caae962ccd499f0",
