@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.js": "/react-nexys-boilerplate/static/js/main.4115fc23.chunk.js",
-    "main.js.map": "/react-nexys-boilerplate/static/js/main.4115fc23.chunk.js.map",
+    "main.js": "/react-nexys-boilerplate/static/js/main.adef052d.chunk.js",
+    "main.js.map": "/react-nexys-boilerplate/static/js/main.adef052d.chunk.js.map",
     "runtime-main.js": "/react-nexys-boilerplate/static/js/runtime-main.3c36c9b6.js",
     "runtime-main.js.map": "/react-nexys-boilerplate/static/js/runtime-main.3c36c9b6.js.map",
-    "static/js/2.c2660891.chunk.js": "/react-nexys-boilerplate/static/js/2.c2660891.chunk.js",
-    "static/js/2.c2660891.chunk.js.map": "/react-nexys-boilerplate/static/js/2.c2660891.chunk.js.map",
+    "static/js/2.c154d258.chunk.js": "/react-nexys-boilerplate/static/js/2.c154d258.chunk.js",
+    "static/js/2.c154d258.chunk.js.map": "/react-nexys-boilerplate/static/js/2.c154d258.chunk.js.map",
     "index.html": "/react-nexys-boilerplate/index.html",
-    "precache-manifest.5c66ad1d6a785852b3ffe293b64bb42c.js": "/react-nexys-boilerplate/precache-manifest.5c66ad1d6a785852b3ffe293b64bb42c.js",
+    "precache-manifest.6990da7d3f18a86ed068fdb6c110bc7d.js": "/react-nexys-boilerplate/precache-manifest.6990da7d3f18a86ed068fdb6c110bc7d.js",
     "service-worker.js": "/react-nexys-boilerplate/service-worker.js"
   }
 }
