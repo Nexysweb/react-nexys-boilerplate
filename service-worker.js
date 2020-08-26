@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/react-nexys-boilerplate/precache-manifest.3232aca19b85699d96103468e5ee0e10.js"
+  "/react-nexys-boilerplate/precache-manifest.ddd675efb4cfe6e61283c2fdcb22d91a.js"
 );
 
 self.addEventListener('message', (event) => {
